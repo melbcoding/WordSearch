@@ -26,6 +26,3 @@ function searchWord(el){
         })
         .catch(err => console.error(err));
 }
-
-
-console.log()
